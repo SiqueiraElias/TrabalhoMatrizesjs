@@ -1,0 +1,36 @@
+body {
+    background-color: #d1cfca;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(5, 5, 172);
+    display: inline-block;
+    width: 80%;
+    margin: 2%;
+    vertical-align: middle;
+
+}
+
+h2 {
+    color: rgb(5, 5, 172);
+}
+
+img {
+    text-align: center;
+    height: 150px;
+    width: 100px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border-color: black;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+td {
+    padding: 5px;
+}
